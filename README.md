@@ -1,6 +1,6 @@
-## 🎂 Edolita Cake
+## 🎂 Endolita Cake
 
-Edolita Cake Merupakan aplikasi berbasis web yang dibuat untuk membantu para pengguna dalam mengolah data pada aplikasi Edolita Cake. <br>Di dalam aplikasi ini, pengguna dapat menambah, mengubah, dan menghapus data pada aplikasi Edolita Cake. <br>Pengguna juga dapat melihat data pesanan pada aplikasi Edolita Cake.
+Endolita Cake Merupakan aplikasi berbasis web yang dibuat untuk membantu para pengguna dalam mengolah data pada aplikasi Endolita Cake. Di dalam aplikasi ini, pengguna dapat menambah, mengubah, dan menghapus data pada aplikasi Endolita Cake. <br>Pengguna juga dapat melihat data pesanan pada aplikasi Endolita Cake.
 
 *Note: aplikasi ini dibuat dalam rangka pembelajaran/ bukan produksi <br> Karena tidak ada database yang dibutuhkan, maka aplikasi ini tidak dapat digunakan sebagai aplikasi produksi.
 
@@ -34,7 +34,10 @@ Edolita Cake Merupakan aplikasi berbasis web yang dibuat untuk membantu para pen
       <p><i class="fab fa-facebook"></i> <a href="https://www.facebook.com/bagussatoto1"> Facebook : Bagus Budi Satoto</a></p>
       <p><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/bagus_satoto1"> Instagram : Bagus Budi Satoto</a></p>    
       <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/bagussatoto/"> Linkedin : Bagus Budi Satoto</a></p>
-      <p><i class="fab fab-paypal"></i> <a href="https://www.PayPal.Me/bagussatoto1"> PayPal : Bagus Budi Satoto </a></p>
+      <p><i class="fab fab-biolinky.co"></i> <a href="https://biolinky.co/bagussatoto"> Biolinky : Bagus Budi Satoto </a></p>
+      <p><i class="fab fab-biolinky.co"></i> <a href="https://saweria.co/bagussatoto1"> Saweria : bagussatoto1 </a></p>      
+            
+            
       
 </div>
 
