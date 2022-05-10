@@ -1,4 +1,4 @@
-## Edolita Cake
+## 🎂 Edolita Cake
 
 Edolita Cake Merupakan aplikasi berbasis web yang dibuat untuk membantu para pengguna dalam mengolah data pada aplikasi Edolita Cake. <br>Di dalam aplikasi ini, pengguna dapat menambah, mengubah, dan menghapus data pada aplikasi Edolita Cake. <br>Pengguna juga dapat melihat data pesanan pada aplikasi Edolita Cake.
 
@@ -6,11 +6,16 @@ Edolita Cake Merupakan aplikasi berbasis web yang dibuat untuk membantu para pen
 
 ## ✅ Gambaran Hasil Aplikasi Edolita Cake
 
-<p>
-[Menu]()
-[Penjualan]()
-[Tentang Kami]()
-</p>
+### Menu
+![image](https://github.com/bagussatoto/Endolita-Cake/blob/main/assets/images/menu.jpg)
+
+### Penjualan
+![image](https://github.com/bagussatoto/Endolita-Cake/blob/main/assets/images/penjualan.jpg)
+
+### Tentang Kami
+![image](https://github.com/bagussatoto/Endolita-Cake/blob/main/assets/images/tentang%20kami.jpg)
+
+
 
 ## 👦🏽 Siapa pembuat aplikasi ini?
 
@@ -34,7 +39,7 @@ Edolita Cake Merupakan aplikasi berbasis web yang dibuat untuk membantu para pen
 </div>
 
 ## 🖥️ Demo Aplikasi: 
-[Uji Coba Aplikasi]()
+[Uji Coba Aplikasi](https://bagussatoto.github.io/Endolita-Cake/)
 
 
 
